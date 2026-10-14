@@ -1,1 +1,1 @@
-* 使用gemini，對話內容
+* 使用gemini，對話內容https://share.gemini.google/PLaLFHaPSWGq
