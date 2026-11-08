@@ -1,4 +1,4 @@
-日期 | 作業 | 
+日期 | 作業 | 備註
 -----|--------|-----
 9/9 |  [HW1](./homework/week1/README.md) | 已補交
 9/16 |  [HW2](./homework/week2/README.md) | 已補交
